@@ -1,0 +1,37 @@
+h1{
+    color:aquamarine;
+}
+h4
+{
+    color:blue;
+}
+button {
+    color : red;
+    background-color: rgb(255, 166, 0);
+    font-size: 30px;
+}
+body{
+    background-color: beige;
+}
+
+
+#submit 
+{
+    background-color: black;
+    color: wheat;
+}
+
+.form1{
+    background-color: azure;
+}
+
+.form1 input[type="text"]
+{
+    background-color: rgb(201, 228, 225);
+}
+
+input[type="text"]
+{
+    background-color: rgb(184, 174, 84);
+}
+

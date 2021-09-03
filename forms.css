@@ -34,4 +34,35 @@ input[type="text"]
 {
     background-color: rgb(184, 174, 84);
 }
+ p::first-letter
+ {
+     color:rgb(247, 18, 18);
+ }
 
+ .post submit:hover {
+
+color:cadetblue;
+ }
+
+p::first-line{
+    color:purple;
+    
+}
+P::selection
+{
+    color:rgb(236, 189, 102)
+
+
+}
+
+button:hover
+{
+    font-size: 20px;
+
+
+
+}
+
+button, input{
+    color: inherit; 
+}

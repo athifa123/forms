@@ -1,0 +1,44 @@
+div{
+    background-color:rgb(167, 111, 129);
+    width: 200px;
+
+}
+
+
+h1{
+    background-color: rgb(196, 150, 75);
+    font: size 20px; 
+    padding-left: 20px; 
+    padding-bottom: 5px;
+}
+#one{
+    background-color: rgb(211, 121, 19);
+    border-width: 5px;
+    border-style:inset;
+    border-color: aqua;
+    border-sizing: border-box;
+    padding: 10px 40px 30px;
+    margin-left:200px;
+    margin-bottom: 40px;
+
+}
+
+#two{
+    background-color: rgb(160, 36, 108);
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+    border-sizing: border-box;
+    border-left-color: cadetblue;
+    border-left-style: dotted ;
+}
+#three{
+    background-color: rgb(50, 142, 196);
+    border: 6px red double;
+    border-radius: 20%;
+}
+
+#button{
+    padding: 10px 20px 30px 40px;
+
+}

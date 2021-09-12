@@ -42,3 +42,24 @@ h1{
     padding: 10px 20px 30px 40px;
 
 }
+
+span {
+    margin: 50px;
+
+}
+
+section{
+    background-color: aqua;
+    width:200px ;
+    height: 100px;
+
+}
+
+#rgba{
+    width:50%;
+    height: 20%;
+    color:rgba(50, 142, 196, 0.5);
+    opacity: yellow ;
+
+
+}
